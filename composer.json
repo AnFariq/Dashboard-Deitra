@@ -1,0 +1,17 @@
+{
+    "name": "naaaa/dashboard_by_andicha-master",
+    "description": "hai",
+    "autoload": {
+        "psr-4": {
+            "Naaaa\\DashboardByAndichaMaster\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "an"
+        }
+    ],
+    "require": {
+        "kreait/firebase-php": "^5.26"
+    }
+}
